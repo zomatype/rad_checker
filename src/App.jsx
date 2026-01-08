@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 // 新宿駅の座標（起点）
-const SHINJUKU_STATION = { lat: 35.68918323345258, , lng: 139.70190472729143 };
+const SHINJUKU_STATION = { lat: 35.6892, lng: 139.7019 };
 const RADIUS_LIMIT_KM = 3.0;
 
 const App = () => {
